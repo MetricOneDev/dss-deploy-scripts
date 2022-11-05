@@ -1,9 +1,7 @@
 # DSS deployment scripts
 
-![Build Status](https://github.com/MetricOneDev/dss-deploy-scripts/actions/workflows/.github/workflows/tests.yaml/badge.svg?branch=master)
-
 A set of scripts that deploy [dss](http://github.com/MetricOneDev/dss) to an
-Ethereum chain of your choosing.
+EVM chain of your choosing.
 
 ## Description
 
@@ -257,7 +255,7 @@ dapp2nix clone-recursive contracts
 ## Additional Documentation
 
 - `dss-deploy` [source code](https://github.com/MetricOneDev/dss-deploy)
-- `dss` is documented in the [wiki](https://github.com/MetricOneDev/dss/wiki) and in [DEVELOPING.md](https://github.com/makerdao/dss/blob/master/DEVELOPING.md)
+- `dss` is documented in the [wiki](https://github.com/MetricOneDev/dss/wiki) and in [DEVELOPING.md](https://github.com/MetricOneDev/dss/blob/master/DEVELOPING.md)
 
 ## TODO
 

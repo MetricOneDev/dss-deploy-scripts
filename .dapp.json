@@ -216,7 +216,7 @@
       "repo": {
         "name": "dss-cdp-manager-7bb4370",
         "ref": "v1.2",
-        "rev": "63e38926431e76ab3a759de823a3a4f0e3093da5",
+        "rev": "7bb43702616c184823a1fc48ad83d3b0c83e40c4",
         "url": "https://github.com/MetricOneDev/dss-cdp-manager"
       }
     },
@@ -242,7 +242,7 @@
       "repo": {
         "name": "dss-deploy-pause-proxy-actions-22ae467",
         "ref": "HEAD",
-        "rev": "93443831ea4008177bbdc55d9ab8ba8ee069324c",
+        "rev": "22ae4671fff4cf6964e810c7c06a06f7e9b4bdcc",
         "url": "https://github.com/MetricOneDev/dss-deploy-pause-proxy-actions"
       }
     },
