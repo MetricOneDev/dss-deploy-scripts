@@ -182,16 +182,16 @@
         "url": "https://github.com/MetricOneDev/ds-wcoin"
       }
     },
-    "dsr-manager_bd9219a": {
+    "dsr-manager_3fd5d19": {
       "deps": {
         "ds-test": "ds-test_0a5da56",
         "dss-deploy": "dss-deploy_57e3c37"
       },
       "name": "dsr-manager",
       "repo": {
-        "name": "dsr-manager-bd9219a",
+        "name": "dsr-manager-3fd5d19",
         "ref": "HEAD",
-        "rev": "bd9219ae49031798f4a422fce50ae0070ff6094c",
+        "rev": "3fd5d19cb866ad78475d6687f7fef2d0eddf0ebb",
         "url": "https://github.com/MetricOneDev/dsr-manager"
       }
     },
@@ -583,7 +583,7 @@
       "ds-token": "ds-token_fe76489",
       "ds-value": "ds-value_4049ecd",
       "ds-wcoin": "ds-wcoin_f0d4674",
-      "dsr-manager": "dsr-manager_bd9219a",
+      "dsr-manager": "dsr-manager_3fd5d19",
       "dss-auto-line": "dss-auto-line_4e793ae",
       "dss-cdp-manager": "dss-cdp-manager_63e3892",
       "dss-chain-log": "dss-chain-log_8dd95df",
