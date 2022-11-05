@@ -1,15 +1,15 @@
 {
   "contracts": {
-    "clipper-mom_1473b44": {
+    "clipper-mom_6029ba9": {
       "deps": {
         "ds-test": "ds-test_0a5da56"
       },
       "name": "clipper-mom",
       "repo": {
-        "name": "clipper-mom-1473b44",
+        "name": "clipper-mom-6029ba9",
         "ref": "HEAD",
-        "rev": "1473b448cc9141fb0c56146f8b5b28db57b39739",
-        "url": "https://github.com/makerdao/clipper-mom"
+        "rev": "6029ba9da18c45e983bf643333eab4917986adb6",
+        "url": "https://github.com/MetricOneDev/clipper-mom"
       }
     },
     "ds-auth_a51e7ca": {
@@ -24,19 +24,19 @@
         "url": "https://github.com/dapphub/ds-auth"
       }
     },
-    "ds-chief_224b476": {
+    "ds-chief_d8396e0": {
       "deps": {
         "ds-roles": "ds-roles_53d5694",
         "ds-test": "ds-test_0a5da56",
         "ds-thing": "ds-thing_5865abc",
-        "ds-token": "ds-token_a5e709b"
+        "ds-token": "ds-token_fe76489"
       },
       "name": "ds-chief",
       "repo": {
-        "name": "ds-chief-224b476",
+        "name": "ds-chief-d8396e0",
         "ref": "HEAD",
-        "rev": "224b476de95e7fabedb173ddb59fe271a366ff62",
-        "url": "https://github.com/makerdao/ds-chief"
+        "rev": "d8396e003d732b46ba302ef00459e0f3144b0611",
+        "url": "https://github.com/MetricOneDev/ds-chief"
       }
     },
     "ds-math_e70a364": {
@@ -73,7 +73,7 @@
         "name": "ds-pause-5e798dd",
         "ref": "HEAD",
         "rev": "5e798dd96bfaac978cd9fe3c0259b486e8afd213",
-        "url": "https://github.com/makerdao/ds-pause"
+        "url": "https://github.com/MetricOneDev/ds-pause"
       }
     },
     "ds-proxy_e17a252": {
@@ -142,7 +142,7 @@
         "url": "https://github.com/dapphub/ds-thing"
       }
     },
-    "ds-token_a5e709b": {
+    "ds-token_fe76489": {
       "deps": {
         "ds-auth": "ds-auth_a51e7ca",
         "ds-math": "ds-math_e70a364",
@@ -150,10 +150,10 @@
       },
       "name": "ds-token",
       "repo": {
-        "name": "ds-token-a5e709b",
+        "name": "ds-token-fe76489",
         "ref": "HEAD",
-        "rev": "a5e709b205383720a3d47c7b234771daf4b58766",
-        "url": "https://github.com/dapphub/ds-token"
+        "rev": "fe76489224971b152ac083baa82d6fb56af24b20",
+        "url": "https://github.com/MetricOneDev/ds-token"
       }
     },
     "ds-value_4049ecd": {
@@ -169,207 +169,207 @@
         "url": "https://github.com/dapphub/ds-value"
       }
     },
-    "ds-weth_b23b478": {
+    "ds-wcoin_f0d4674": {
       "deps": {
         "ds-test": "ds-test_0a5da56",
         "erc20": "erc20_f322aac"
       },
-      "name": "ds-weth",
+      "name": "ds-wcoin",
       "repo": {
-        "name": "ds-weth-b23b478",
+        "name": "ds-wcoin-f0d4674",
         "ref": "HEAD",
-        "rev": "b23b47824572500cb301b65370208b1b752f7482",
-        "url": "https://github.com/makerdao/ds-weth"
+        "rev": "f0d46749680199fc9ccf7e6c6cea35b47f7bc847",
+        "url": "https://github.com/MetricOneDev/ds-wcoin"
       }
     },
-    "dsr-manager_0a48c2d": {
+    "dsr-manager_bd9219a": {
       "deps": {
         "ds-test": "ds-test_0a5da56",
-        "dss-deploy": "dss-deploy_45985a9"
+        "dss-deploy": "dss-deploy_57e3c37"
       },
       "name": "dsr-manager",
       "repo": {
-        "name": "dsr-manager-0a48c2d",
+        "name": "dsr-manager-bd9219a",
         "ref": "HEAD",
-        "rev": "0a48c2dda418927ab844ec251f24079c0a3ff2bb",
-        "url": "https://github.com/makerdao/dsr-manager"
+        "rev": "bd9219ae49031798f4a422fce50ae0070ff6094c",
+        "url": "https://github.com/MetricOneDev/dsr-manager"
       }
     },
-    "dss-auto-line_bff7e6c": {
+    "dss-auto-line_4e793ae": {
       "deps": {
         "ds-test": "ds-test_0a5da56"
       },
       "name": "dss-auto-line",
       "repo": {
-        "name": "dss-auto-line-bff7e6c",
+        "name": "dss-auto-line-4e793ae",
         "ref": "HEAD",
-        "rev": "bff7e6cc43dbd7d9a054dd359ef18a1b4d06b6f5",
-        "url": "https://github.com/makerdao/dss-auto-line"
+        "rev": "4e793aee4507760c30104095a582a6284f742615",
+        "url": "https://github.com/MetricOneDev/dss-auto-line"
       }
     },
-    "dss-cdp-manager_306132d": {
+    "dss-cdp-manager_63e3892": {
       "deps": {
         "ds-test": "ds-test_0a5da56",
-        "dss-deploy": "dss-deploy_45985a9"
+        "dss-deploy": "dss-deploy_57e3c37"
       },
       "name": "dss-cdp-manager",
       "repo": {
-        "name": "dss-cdp-manager-306132d",
+        "name": "dss-cdp-manager-63e3892",
         "ref": "v1.2",
-        "rev": "306132d6442b3245081a60bc84468c6a0c252fa8",
-        "url": "https://github.com/makerdao/dss-cdp-manager"
+        "rev": "63e38926431e76ab3a759de823a3a4f0e3093da5",
+        "url": "https://github.com/MetricOneDev/dss-cdp-manager"
       }
     },
-    "dss-chain-log_90cf9c0": {
+    "dss-chain-log_8dd95df": {
       "deps": {
         "ds-test": "ds-test_0a5da56"
       },
       "name": "dss-chain-log",
       "repo": {
-        "name": "dss-chain-log-90cf9c0",
+        "name": "dss-chain-log-8dd95df",
         "ref": "HEAD",
-        "rev": "90cf9c0589d56724b94a0d4f9b4af486a2231385",
-        "url": "https://github.com/makerdao/dss-chain-log"
+        "rev": "8dd95df0d9d5930006c628edd6de68d6bb64a875",
+        "url": "https://github.com/MetricOneDev/dss-chain-log"
       }
     },
-    "dss-deploy-pause-proxy-actions_9344383": {
+    "dss-deploy-pause-proxy-actions_22ae467": {
       "deps": {
         "ds-proxy": "ds-proxy_e17a252",
         "ds-test": "ds-test_0a5da56",
-        "dss-deploy": "dss-deploy_45985a9"
+        "dss-deploy": "dss-deploy_57e3c37"
       },
       "name": "dss-deploy-pause-proxy-actions",
       "repo": {
-        "name": "dss-deploy-pause-proxy-actions-9344383",
+        "name": "dss-deploy-pause-proxy-actions-22ae467",
         "ref": "HEAD",
         "rev": "93443831ea4008177bbdc55d9ab8ba8ee069324c",
-        "url": "https://github.com/makerdao/dss-deploy-pause-proxy-actions"
+        "url": "https://github.com/MetricOneDev/dss-deploy-pause-proxy-actions"
       }
     },
-    "dss-deploy_45985a9": {
+    "dss-deploy_57e3c37": {
       "deps": {
         "ds-auth": "ds-auth_a51e7ca",
         "ds-pause": "ds-pause_5e798dd",
         "ds-test": "ds-test_0a5da56",
-        "dss": "dss_38f618c",
-        "esm": "esm_8fabd86"
+        "dss": "dss_4ebdaac",
+        "esm": "esm_861734c"
       },
       "name": "dss-deploy",
       "repo": {
-        "name": "dss-deploy-45985a9",
+        "name": "dss-deploy-aaba41e",
         "ref": "v1.2",
-        "rev": "45985a91024f3bc82cbe15b17dd70990d7f56020",
-        "url": "https://github.com/makerdao/dss-deploy"
+        "rev": "57e3c37e142d1ee91fc3047c62867ab98d6fab39",
+        "url": "https://github.com/MetricOneDev/dss-deploy"
       }
     },
-    "dss-deploy_b2c1c5a": {
+    "dss-deploy_2e5df4e": {
       "deps": {
         "ds-auth": "ds-auth_a51e7ca",
         "ds-pause": "ds-pause_5e798dd",
         "ds-test": "ds-test_0a5da56",
-        "dss": "dss_fa4f663",
-        "esm": "esm_225ddf2"
+        "dss": "dss_425e279",
+        "esm": "esm_93705e3"
       },
       "name": "dss-deploy",
       "repo": {
-        "name": "dss-deploy-b2c1c5a",
+        "name": "dss-deploy-2e5df4e",
         "ref": "HEAD",
-        "rev": "b2c1c5ac107b99fd61a7f6d2f63164331bd1fbf9",
-        "url": "https://github.com/makerdao/dss-deploy"
+        "rev": "2e5df4eee76dd64179600a7dd379f4f69a46ed49",
+        "url": "https://github.com/MetricOneDev/dss-deploy"
       }
     },
-    "dss-flash_4d4b984": {
+    "dss-flash_04b7abd": {
       "deps": {
         "ds-test": "ds-test_0a5da56",
-        "dss": "dss_fa4f663"
+        "dss": "dss_425e279"
       },
       "name": "dss-flash",
       "repo": {
-        "name": "dss-flash-4d4b984",
+        "name": "dss-flash-04b7abd",
         "ref": "HEAD",
-        "rev": "4d4b984eb9bb6d87c27ce542fe453e32e9a352ca",
-        "url": "https://github.com/makerdao/dss-flash"
+        "rev": "04b7abd5c8be0770bfa6abe0824bd0524b1cdf9a",
+        "url": "https://github.com/MetricOneDev/dss-flash"
       }
     },
-    "dss-gem-joins_123d6b7": {
+    "dss-gem-joins_0b2b8a0": {
       "deps": {
         "ds-test": "ds-test_0a5da56",
-        "dss-deploy": "dss-deploy_45985a9"
+        "dss-deploy": "dss-deploy_57e3c37"
       },
       "name": "dss-gem-joins",
       "repo": {
-        "name": "dss-gem-joins-123d6b7",
+        "name": "dss-gem-joins-0b2b8a0",
         "ref": "v1.2",
-        "rev": "123d6b7d7210a4dc47cecc405e1deeaa0f28e0c0",
-        "url": "https://github.com/makerdao/dss-gem-joins"
+        "rev": "0b2b8a0271c03faee25f3453631eca1ceef9350b",
+        "url": "https://github.com/MetricOneDev/dss-gem-joins"
       }
     },
-    "dss-proxy-actions_5cf4634": {
+    "dss-proxy-actions_e093744": {
       "deps": {
         "ds-test": "ds-test_0a5da56",
-        "ds-weth": "ds-weth_b23b478",
-        "dss-cdp-manager": "dss-cdp-manager_306132d",
-        "dss-gem-joins": "dss-gem-joins_123d6b7",
-        "proxy-registry": "proxy-registry_981715a"
+        "ds-wcoin": "ds-wcoin_f0d4674",
+        "dss-cdp-manager": "dss-cdp-manager_63e3892",
+        "dss-gem-joins": "dss-gem-joins_0b2b8a0",
+        "proxy-registry": "proxy-registry_7f05678"
       },
       "name": "dss-proxy-actions",
       "repo": {
-        "name": "dss-proxy-actions-5cf4634",
+        "name": "dss-proxy-actions-e093744",
         "ref": "HEAD",
-        "rev": "5cf46344070274ca59882d645bebf15589bdc87d",
-        "url": "https://github.com/makerdao/dss-proxy-actions"
+        "rev": "e093744979acf454b6b7a6310d2d7b5dd36dea0e",
+        "url": "https://github.com/MetricOneDev/dss-proxy-actions"
       }
     },
-    "dss-vest_4e04cec": {
+    "dss-vest_a8a17a1": {
       "deps": {
         "ds-test": "ds-test_0a5da56"
       },
       "name": "dss-vest",
       "repo": {
-        "name": "dss-vest-4e04cec",
+        "name": "dss-vest-a8a17a1",
         "ref": "HEAD",
-        "rev": "4e04cec2607a6e59960ce8bd729666cfddc2f523",
-        "url": "https://github.com/makerdao/dss-vest"
+        "rev": "a8a17a1f4cb3ad39eb050a7920f09d875dba1d98",
+        "url": "https://github.com/MetricOneDev/dss-vest"
       }
     },
-    "dss-vest_50b7140": {
+    "dss-vest_5d8f76a": {
       "deps": {
         "ds-test": "ds-test_0a5da56"
       },
       "name": "dss-vest",
       "repo": {
-        "name": "dss-vest-50b7140",
-        "ref": "v1.0.1",
-        "rev": "50b71406ba686ffb963a722754cc5ea3a4f21364",
-        "url": "https://github.com/makerdao/dss-vest"
+        "name": "dss-vest-5d8f76a",
+        "ref": "v1.0.2",
+        "rev": "5d8f76aa4121f22e4ff8ae42399fc293ef996882",
+        "url": "https://github.com/MetricOneDev/dss-vest"
       }
     },
-    "dss_38f618c": {
+    "dss_4ebdaac": {
       "deps": {
         "ds-test": "ds-test_0a5da56",
-        "ds-token": "ds-token_a5e709b",
+        "ds-token": "ds-token_fe76489",
         "ds-value": "ds-value_4049ecd"
       },
       "name": "dss",
       "repo": {
-        "name": "dss-38f618c",
+        "name": "dss-4ebdaac",
         "ref": "v1.2",
-        "rev": "38f618c54ff27d278eacc58d543e01bd08a88680",
-        "url": "https://github.com/makerdao/dss"
+        "rev": "4ebdaacf6a6ee287fa114c741fb8c30bc55d0621",
+        "url": "https://github.com/MetricOneDev/dss"
       }
     },
-    "dss_fa4f663": {
+    "dss_425e279": {
       "deps": {
         "ds-test": "ds-test_0a5da56",
-        "ds-token": "ds-token_a5e709b",
+        "ds-token": "ds-token_fe76489",
         "ds-value": "ds-value_4049ecd"
       },
       "name": "dss",
       "repo": {
-        "name": "dss-fa4f663",
+        "name": "dss-425e279",
         "ref": "HEAD",
-        "rev": "fa4f6630afb0624d04a003e920b0d71a00331d98",
-        "url": "https://github.com/makerdao/dss"
+        "rev": "425e2792aa15b7aeefe940d75bdd43f953f83040",
+        "url": "https://github.com/MetricOneDev/dss"
       }
     },
     "erc20_f322aac": {
@@ -382,108 +382,108 @@
         "url": "https://github.com/dapphub/erc20"
       }
     },
-    "esm_225ddf2": {
+    "esm_93705e3": {
       "deps": {
         "ds-test": "ds-test_0a5da56",
-        "ds-token": "ds-token_a5e709b"
+        "ds-token": "ds-token_fe76489"
       },
       "name": "esm",
       "repo": {
-        "name": "esm-225ddf2",
+        "name": "esm-93705e3",
         "ref": "HEAD",
-        "rev": "225ddf29b1515d10ea6d4f9cde5814a73085ce09",
-        "url": "https://github.com/makerdao/esm"
+        "rev": "93705e34e45316b206f193d43e5c77751293fffc",
+        "url": "https://github.com/MetricOneDev/esm"
       }
     },
-    "esm_8fabd86": {
+    "esm_861734c": {
       "deps": {
         "ds-test": "ds-test_0a5da56",
-        "ds-token": "ds-token_a5e709b"
+        "ds-token": "ds-token_fe76489"
       },
       "name": "esm",
       "repo": {
-        "name": "esm-8fabd86",
+        "name": "esm-861734c",
         "ref": "v1.2",
-        "rev": "8fabd86487bc712faa306c01b85fceeafb0d15d0",
-        "url": "https://github.com/makerdao/esm"
+        "rev": "861734c7a6e60568a78947b29c9a6d9d453e7c21",
+        "url": "https://github.com/MetricOneDev/esm"
       }
     },
-    "flipper-mom_3a57ea1": {
+    "flipper-mom_e2d299a": {
       "deps": {
         "ds-test": "ds-test_0a5da56"
       },
       "name": "flipper-mom",
       "repo": {
-        "name": "flipper-mom-3a57ea1",
+        "name": "flipper-mom-e2d299a",
         "ref": "HEAD",
-        "rev": "3a57ea142b859a0559b9b8c30ce7db53d6620e86",
-        "url": "https://github.com/makerdao/flipper-mom"
+        "rev": "e2d299a8796d832758f95f86d93c508e6be460a8",
+        "url": "https://github.com/MetricOneDev/flipper-mom"
       }
     },
-    "ilk-registry_4667403": {
+    "ilk-registry_94d9374": {
       "deps": {
         "ds-test": "ds-test_0a5da56",
         "ds-value": "ds-value_4049ecd",
-        "dss": "dss_fa4f663"
+        "dss": "dss_425e279"
       },
       "name": "ilk-registry",
       "repo": {
-        "name": "ilk-registry-4667403",
+        "name": "ilk-registry-94d9374",
         "ref": "HEAD",
-        "rev": "4667403b0924b8710fee938e45f59b64c10f8c55",
-        "url": "https://github.com/makerdao/ilk-registry"
+        "rev": "94d9374c43f6a3dcccd49263c0b64435875af745",
+        "url": "https://github.com/MetricOneDev/ilk-registry"
       }
     },
-    "median_0316acd": {
+    "median_e2e2959": {
       "deps": {
         "ds-test": "ds-test_0a5da56"
       },
       "name": "median",
       "repo": {
-        "name": "median-0316acd",
+        "name": "median-e2e2959",
         "ref": "HEAD",
-        "rev": "0316acd5a97fbd6c3d23b159b3d329f99ead3405",
-        "url": "https://github.com/makerdao/median"
+        "rev": "e2e295925c668214ebef5b2b7ee8d2433344fe89",
+        "url": "https://github.com/MetricOneDev/median"
       }
     },
-    "mkr-authority_fc19f8a": {
+    "gov-authority_451f8bf": {
       "deps": {
         "ds-test": "ds-test_0a5da56"
       },
-      "name": "mkr-authority",
+      "name": "gov-authority",
       "repo": {
-        "name": "mkr-authority-fc19f8a",
+        "name": "gov-authority-451f8bf",
         "ref": "HEAD",
-        "rev": "fc19f8a02cfd080fbdeedd7ddf01c5e61d519e04",
-        "url": "https://github.com/makerdao/mkr-authority"
+        "rev": "451f8bfc72de65056860fa78ebc75f3fb952b642",
+        "url": "https://github.com/MetricOneDev/gov-authority"
       }
     },
-    "multicall_1e1b443": {
+    "multicall_2f48fcf": {
       "deps": {
         "ds-test": "ds-test_0a5da56"
       },
       "name": "multicall",
       "repo": {
-        "name": "multicall-1e1b443",
+        "name": "multicall-2f48fcf",
         "ref": "HEAD",
-        "rev": "1e1b44362640820bef92d0ccf5eeee25d9b41474",
-        "url": "https://github.com/makerdao/multicall"
+        "rev": "2f48fcf5a987ce27452921802cba7686e7405dc6",
+        "url": "https://github.com/MetricOneDev/multicall"
       }
     },
-    "osm-mom_820324a": {
+    "osm-mom_3329372": {
       "deps": {
         "ds-test": "ds-test_0a5da56",
-        "osm": "osm_e36c874"
+        "osm": "osm_f2aa1d0"
       },
       "name": "osm-mom",
       "repo": {
-        "name": "osm-mom-820324a",
+        "name": "osm-mom-3329372",
         "ref": "HEAD",
-        "rev": "820324a2ce4c2da17d7ff8ab67d12f9a5debdb4a",
-        "url": "https://github.com/makerdao/osm-mom"
+        "rev": "3329372a2334352208c0477aec1f3e5514b2b6de",
+        "url": "https://github.com/MetricOneDev/osm-mom"
       }
     },
-    "osm_e36c874": {
+    "osm_f2aa1d0": {
       "deps": {
         "ds-stop": "ds-stop_27cad71",
         "ds-test": "ds-test_0a5da56",
@@ -491,122 +491,122 @@
       },
       "name": "osm",
       "repo": {
-        "name": "osm-e36c874",
+        "name": "osm-f2aa1d0",
         "ref": "HEAD",
-        "rev": "e36c874b4e14fba860e48c0cf99cd600c0c59efa",
-        "url": "https://github.com/makerdao/osm"
+        "rev": "f2aa1d04c5c34560e56c1916e3ef7132e292749b",
+        "url": "https://github.com/MetricOneDev/osm"
       }
     },
-    "proxy-registry_981715a": {
+    "proxy-registry_7f05678": {
       "deps": {
         "ds-proxy": "ds-proxy_e17a252",
         "ds-test": "ds-test_0a5da56"
       },
       "name": "proxy-registry",
       "repo": {
-        "name": "proxy-registry-981715a",
+        "name": "proxy-registry-7f05678",
         "ref": "HEAD",
-        "rev": "981715a971f53d474ece6e4e06fd8c7992d2d5b5",
-        "url": "https://github.com/makerdao/proxy-registry"
+        "rev": "7f05678c25584601ddf12a28762638a809def228",
+        "url": "https://github.com/MetricOneDev/proxy-registry"
       }
     },
-    "symbolic-voting_5f9c56f": {
+    "symbolic-voting_c404c7f": {
       "deps": {
         "ds-test": "ds-test_0a5da56"
       },
       "name": "symbolic-voting",
       "repo": {
-        "name": "symbolic-voting-5f9c56f",
+        "name": "symbolic-voting-c404c7f",
         "ref": "HEAD",
-        "rev": "5f9c56f0a2109b36cae14e66d78eadd7125fd1e3",
-        "url": "https://github.com/makerdao/symbolic-voting"
+        "rev": "c404c7f01100f94a99e8bdfeaa185dc490f2838e",
+        "url": "https://github.com/MetricOneDev/symbolic-voting"
       }
     },
     "testchain-medians_e842e4f": {
       "deps": {
         "ds-test": "ds-test_0a5da56",
-        "median": "median_0316acd"
+        "median": "median_e2e2959"
       },
       "name": "testchain-medians",
       "repo": {
         "name": "testchain-medians-e842e4f",
         "ref": "HEAD",
         "rev": "e842e4f474a30b0b5b1da581aeaca2aae1ae173e",
-        "url": "https://github.com/makerdao/testchain-medians"
+        "url": "https://github.com/MetricOneDev/testchain-medians"
       }
     },
-    "token-faucet_2d9189c": {
+    "token-faucet_fa55582": {
       "deps": {
         "ds-test": "ds-test_0a5da56",
-        "ds-token": "ds-token_a5e709b"
+        "ds-token": "ds-token_fe76489"
       },
       "name": "token-faucet",
       "repo": {
-        "name": "token-faucet-2d9189c",
+        "name": "token-faucet-fa55582",
         "ref": "HEAD",
-        "rev": "2d9189c798b3373ad8e317315ce054c3adc21358",
-        "url": "https://github.com/makerdao/token-faucet"
+        "rev": "fa555820d81a2219fa0ef10e0076456b2fb93970",
+        "url": "https://github.com/MetricOneDev/token-faucet"
       }
     },
-    "vote-delegate_c2345b7": {
+    "vote-delegate_553a565": {
       "deps": {
         "ds-test": "ds-test_0a5da56"
       },
       "name": "vote-delegate",
       "repo": {
-        "name": "vote-delegate-c2345b7",
+        "name": "vote-delegate-553a565",
         "ref": "HEAD",
-        "rev": "c2345b78376d5b0bb24749a97f82fe9171b53394",
-        "url": "https://github.com/makerdao/vote-delegate"
+        "rev": "553a565b5d529f30171f293ca48d74997445bd21",
+        "url": "https://github.com/MetricOneDev/vote-delegate"
       }
     },
-    "vote-proxy_67067a1": {
+    "vote-proxy_836e7e4": {
       "deps": {
-        "ds-chief": "ds-chief_224b476",
+        "ds-chief": "ds-chief_d8396e0",
         "ds-test": "ds-test_0a5da56"
       },
       "name": "vote-proxy",
       "repo": {
-        "name": "vote-proxy-67067a1",
+        "name": "vote-proxy-836e7e4",
         "ref": "HEAD",
-        "rev": "67067a1f3da63233a6e3b2c2f0148f95d046dd7e",
-        "url": "https://github.com/makerdao/vote-proxy"
+        "rev": "836e7e400f6d8d2f70cf23662cb18724b2c83f11",
+        "url": "https://github.com/MetricOneDev/vote-proxy"
       }
     }
   },
   "this": {
     "deps": {
-      "clipper-mom": "clipper-mom_1473b44",
-      "ds-chief": "ds-chief_224b476",
+      "clipper-mom": "clipper-mom_6029ba9",
+      "ds-chief": "ds-chief_d8396e0",
       "ds-proxy": "ds-proxy_e17a252",
       "ds-roles": "ds-roles_53d5694",
-      "ds-token": "ds-token_a5e709b",
+      "ds-token": "ds-token_fe76489",
       "ds-value": "ds-value_4049ecd",
-      "ds-weth": "ds-weth_b23b478",
-      "dsr-manager": "dsr-manager_0a48c2d",
-      "dss-auto-line": "dss-auto-line_bff7e6c",
-      "dss-cdp-manager": "dss-cdp-manager_306132d",
-      "dss-chain-log": "dss-chain-log_90cf9c0",
-      "dss-deploy": "dss-deploy_b2c1c5a",
-      "dss-deploy-1_2": "dss-deploy_45985a9",
-      "dss-deploy-pause-proxy-actions": "dss-deploy-pause-proxy-actions_9344383",
-      "dss-flash": "dss-flash_4d4b984",
-      "dss-gem-joins": "dss-gem-joins_123d6b7",
-      "dss-proxy-actions": "dss-proxy-actions_5cf4634",
-      "dss-vest": "dss-vest_4e04cec",
-      "dss-vest-1_0_1": "dss-vest_50b7140",
-      "flipper-mom": "flipper-mom_3a57ea1",
-      "ilk-registry": "ilk-registry_4667403",
-      "mkr-authority": "mkr-authority_fc19f8a",
-      "multicall": "multicall_1e1b443",
-      "osm": "osm_e36c874",
-      "osm-mom": "osm-mom_820324a",
-      "proxy-registry": "proxy-registry_981715a",
-      "symbolic-voting": "symbolic-voting_5f9c56f",
+      "ds-wcoin": "ds-wcoin_f0d4674",
+      "dsr-manager": "dsr-manager_bd9219a",
+      "dss-auto-line": "dss-auto-line_4e793ae",
+      "dss-cdp-manager": "dss-cdp-manager_63e3892",
+      "dss-chain-log": "dss-chain-log_8dd95df",
+      "dss-deploy": "dss-deploy_2e5df4e",
+      "dss-deploy-1_2": "dss-deploy_57e3c37",
+      "dss-deploy-pause-proxy-actions": "dss-deploy-pause-proxy-actions_22ae467",
+      "dss-flash": "dss-flash_04b7abd",
+      "dss-gem-joins": "dss-gem-joins_0b2b8a0",
+      "dss-proxy-actions": "dss-proxy-actions_e093744",
+      "dss-vest": "dss-vest_a8a17a1",
+      "dss-vest-1_0_1": "dss-vest_5d8f76a",
+      "flipper-mom": "flipper-mom_e2d299a",
+      "ilk-registry": "ilk-registry_94d9374",
+      "gov-authority": "gov-authority_451f8bf",
+      "multicall": "multicall_2f48fcf",
+      "osm": "osm_f2aa1d0",
+      "osm-mom": "osm-mom_3329372",
+      "proxy-registry": "proxy-registry_7f05678",
+      "symbolic-voting": "symbolic-voting_c404c7f",
       "testchain-medians": "testchain-medians_e842e4f",
-      "token-faucet": "token-faucet_2d9189c",
-      "vote-delegate": "vote-delegate_c2345b7",
-      "vote-proxy": "vote-proxy_67067a1"
+      "token-faucet": "token-faucet_fa55582",
+      "vote-delegate": "vote-delegate_553a565",
+      "vote-proxy": "vote-proxy_836e7e4"
     },
     "name": "dss-deploy-scripts"
   },
