@@ -522,7 +522,7 @@
         "url": "https://github.com/MetricOneDev/symbolic-voting"
       }
     },
-    "testchain-medians_e842e4f": {
+    "testchain-medians_bac79a4": {
       "deps": {
         "ds-test": "ds-test_0a5da56",
         "median": "median_e2e2959"
@@ -603,7 +603,7 @@
       "osm-mom": "osm-mom_3329372",
       "proxy-registry": "proxy-registry_7f05678",
       "symbolic-voting": "symbolic-voting_c404c7f",
-      "testchain-medians": "testchain-medians_e842e4f",
+      "testchain-medians": "testchain-medians_bac79a4",
       "token-faucet": "token-faucet_fa55582",
       "vote-delegate": "vote-delegate_553a565",
       "vote-proxy": "vote-proxy_836e7e4"
