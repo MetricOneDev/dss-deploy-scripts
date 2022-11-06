@@ -262,7 +262,7 @@
         "url": "https://github.com/MetricOneDev/dss-deploy"
       }
     },
-    "dss-deploy_2e5df4e": {
+    "dss-deploy_8c9092f": {
       "deps": {
         "ds-auth": "ds-auth_a51e7ca",
         "ds-pause": "ds-pause_5e798dd",
@@ -272,9 +272,9 @@
       },
       "name": "dss-deploy",
       "repo": {
-        "name": "dss-deploy-2e5df4e",
+        "name": "dss-deploy-8c9092f",
         "ref": "HEAD",
-        "rev": "2e5df4eee76dd64179600a7dd379f4f69a46ed49",
+        "rev": "8c9092f230938cf004979c44404c35c1f0fa2f75",
         "url": "https://github.com/MetricOneDev/dss-deploy"
       }
     },
@@ -587,7 +587,7 @@
       "dss-auto-line": "dss-auto-line_4e793ae",
       "dss-cdp-manager": "dss-cdp-manager_7bb4370",
       "dss-chain-log": "dss-chain-log_8dd95df",
-      "dss-deploy": "dss-deploy_2e5df4e",
+      "dss-deploy": "dss-deploy_8c9092f",
       "dss-deploy-1_2": "dss-deploy_57e3c37",
       "dss-deploy-pause-proxy-actions": "dss-deploy-pause-proxy-actions_22ae467",
       "dss-flash": "dss-flash_04b7abd",
