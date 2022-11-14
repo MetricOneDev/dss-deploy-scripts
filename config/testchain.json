@@ -1,5 +1,5 @@
 {
-  "description": "Testchain Deployment",
+  "description": "Test Chain Deployment",
   "omniaFromAddr": "0xdc9A20F5a46AFE0802b361076BeFC51f787B2e58",
   "omniaAmount": "10000",
   "pauseDelay": "0",
